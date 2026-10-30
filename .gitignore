@@ -1,0 +1,6 @@
+.env
+logs/
+plugins/
+__pycache__/
+*.pyc
+docker-compose.yaml
